@@ -1,56 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable
 
-> Description the project.
+> In this project you will learn how to use a module inside your class. For this you will create a class myList and a module enumerable. Your module enumerable will implement a subset of the functionality of Enumerable.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+To get a local copy up and running follow these simple example steps.
 
 To get a local copy up and running follow these simple example steps.
 
+```
+Clone the project by using terminal:
+
+git clone https://github.com/Yorsyboy/Enumerable.git
+
+cd Enumerable
+
+ruby myList.rb
+```
+
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Ruby
 
 ## Authors
 
-👤 **Author1**
+👤 **Daniel Urimubenshi**
+- GitHub: [@benshidanny11](https://github.com/benshidanny11)
+- Twitter: [@dbenshi](https://twitter.com/dbenshi)
+- LinkedIn: [Daniel Urimubenshi](https://linkedin.com/in/danielurimubenshi)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Toyosi Taiwo**
 
-👤 **Author2**
+- GitHub: [@Yorsyboy](https://github.com/Yorsyboy)
+- Twitter: [@tboytaiwo](https://twitter.com/Tboytaiwo)
+- LinkedIn: [Toyosi Taiwo](https://linkedin.com/in/taiwo-toyosi)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Eric Mahare**
+
+- GitHub: [@erikmahare](https://github.com/ericmahare) 
+- Twitter: [@erikmahare](https://twitter.com/erikmahare) 
+- LinkedIn: [Eric Mahare](https://www.linkedin.com/in/eric-mahare-358944183/) 
 
 ## 🤝 Contributing
 
