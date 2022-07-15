@@ -12,22 +12,18 @@ class MyList
   end
 end
 
-# Create our list
 puts list = MyList.new(1, 2, 3, 4)
-#=> #<MyList: @list=[1, 2, 3, 4]>
+# => #<MyList: @list=[1, 2, 3, 4]>
 
-# Test #all?
 puts(list.all? { |e| e < 5 })
-#=> true
+# => true
 puts(list.all? { |e| e > 5 })
-#=> false
+# => false
 
-# Test #any?
 puts(list.any? { |e| e == 2 })
-#=> true
+# => true
 puts(list.any? { |e| e == 5 })
-#=> false
+# => false
 
-# Test #filter
 puts(list.filter?(&:even?))
-#=> [2, 4]
+# => [2, 4]
